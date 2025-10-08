@@ -55,9 +55,10 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.youtube.com/@Graduate-Hands" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Graduate Hands" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/vigneshgbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-g-12345678" height="30" width="40" /></a>
-  <a href="https://vickystft.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="My Tech Blog" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@Graduate-Hands" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="Graduate Hands" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vigneshgbe" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="vigneshgbe" height="30" width="40" /></a>
+  <a href="https://vigneshgbe.neocities.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=1200&id=naDnVpQ3BNkR&format=png" alt="Vigneshgbe portfolio" height="30" width="40" /></a>
+  <a href="https://vickystft.blogspot.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494538.png" alt="Vigneshgbe" height="30" width="40" /></a>
 </p>
 
 ---
@@ -68,7 +69,7 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Vigneshgbe">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vigneshg" />
+  <a href="https://vigneshgbe.neocities.org/">
+    <img align="center" src="https://www.seo-doctor.co.uk/wp-content/uploads/2015/06/hireMeButton-1.png" height="50" width="210" alt="vigneshg" />
   </a>
 </p>
