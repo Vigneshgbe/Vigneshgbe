@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh G</h1>
-<h3 align="center">Full Stack Developer | Android Enthusiast | CS Student</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Android+Developer;CS+Student;Always+Learning&center=true&width=380&height=45">
@@ -18,10 +18,10 @@
 
 ### 🧐 About Me
 
-- 🔭 I'm currently working on **a full-stack e-commerce platform**
-- 🌱 I'm currently learning **Cloud Computing and Jetpack Compose**
+- 🔭 I'm currently working on **a full-stack platform**
+- 🌱 I'm currently learning **Mern Stack**
 - 👯 I'm looking to collaborate on **Android and Web Development projects**
-- 💬 Ask me about **React, Kotlin, Node.js**
+- 💬 Ask me about **Java, React**
 - 📫 How to reach me: **vigneshgbecse@gmail.com**
 - ⚡ Fun fact: When I'm not coding, I'm experimenting with DIY electronics!
 
