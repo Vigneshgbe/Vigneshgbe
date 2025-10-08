@@ -58,7 +58,7 @@
   <a href="https://vigneshgbe.neocities.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=1200&id=naDnVpQ3BNkR&format=png" alt="Vigneshgbe portfolio" height="40" width="50" /></a>
   <a href="https://linkedin.com/in/vigneshgbe" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="vigneshgbe" height="60" width="70" /></a>
   <a href="https://www.youtube.com/@Graduate-Hands" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="Graduate Hands" height="30" width="40" /></a>
-  <a href="https://vickystft.blogspot.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494538.png" alt="Vigneshgbe" height="30" width="40" /></a>
+  <a href="https://vickystft.blogspot.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/08/Blogger-Emblem.png" alt="Vigneshgbe" height="30" width="40" /></a>
 </p>
 
 ---
