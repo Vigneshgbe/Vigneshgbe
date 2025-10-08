@@ -70,6 +70,6 @@
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://vigneshgbe.neocities.org/">
-    <img align="center" src="https://www.seo-doctor.co.uk/wp-content/uploads/2015/06/hireMeButton-1.png" height="70" width="240" alt="vigneshg" />
+    <img align="center" src="https://www.seo-doctor.co.uk/wp-content/uploads/2015/06/hireMeButton-1.png" height="100" width="280" alt="vigneshg" />
   </a>
 </p>
