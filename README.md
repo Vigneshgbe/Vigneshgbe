@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Android+Developer;CS+Student;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Full+Stack+Developer;Software+Engineer;Always+Learning&center=true&width=380&height=45">
 </p>
 
 <p align="center">
