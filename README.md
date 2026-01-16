@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vigneshgbe&show_icons=true&theme=dark&hide_border=true&locale=en" alt="vigneshg"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshgbe&layout=compact&theme=dark&hide_border=true" alt="vigneshg" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vigneshgbe&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Vignesh_G"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshgbe&layout=compact&theme=dark&hide_border=true" alt="Vignesh_G" />
 </p>
 
 ### 📈 Activity Graph
