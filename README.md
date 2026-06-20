@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · SDE @ Padak Pvt Ltd · Remote</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=540&lines=Full+Stack+Developer+%7C+Software+Engineer;Founder+%40+Padak+Pvt+Ltd;Building+Web+Platforms+%26+SaaS+Products;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=540&lines=Full+Stack+Developer+%7C+Software+Engineer;SDE+%40+Padak+Pvt+Ltd;Building+Web+Platforms+%26+SaaS+Products;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
