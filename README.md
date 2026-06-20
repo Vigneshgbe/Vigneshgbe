@@ -33,9 +33,11 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,firebase,java,git,github,androidstudio,vscode&theme=dark" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,firebase,java,git,github,androidstudio,vscode&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,firebase,java,git,github,androidstudio,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,firebase,java,git,github,androidstudio,vscode&theme=light" />
+  </picture>
 </p>
 
 ---
@@ -43,13 +45,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vigneshgbe&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vigneshgbe&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Vigneshgbe&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vigneshgbe&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  </picture>
   &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshgbe&layout=compact&theme=github_dark_dimmed&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshgbe&layout=compact&theme=github_dark_dimmed&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshgbe&layout=compact&theme=default&hide_border=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshgbe&layout=compact&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vigneshgbe&theme=github-dark-dimmed&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Vigneshgbe&theme=github-dark-dimmed&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Vigneshgbe&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Vigneshgbe&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 ---
@@ -57,7 +71,11 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vigneshgbe&theme=github-compact&hide_border=true&area=true" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vigneshgbe&theme=github-compact&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vigneshgbe&theme=minimal&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vigneshgbe&theme=minimal&hide_border=true&area=true" width="100%" />
+  </picture>
 </p>
 
 ---
