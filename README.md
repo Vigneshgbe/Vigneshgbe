@@ -62,35 +62,27 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vigneshgbe&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p align="left">
   <a href="https://vigneshgbe.neocities.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0969DA?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/vigneshgbe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@Graduate-Hands" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-0969DA?style=flat-square&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://vickystft.blogspot.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-0969DA?style=flat-square&logo=blogger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:vigneshgbecse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0969DA?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -103,6 +95,6 @@
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://vigneshgbe.neocities.org/">
-    <img src="https://www.seo-doctor.co.uk/wp-content/uploads/2015/06/hireMeButton-1.png" height="100" width="280" alt="Hire Me" />
+    <img src="https://img.shields.io/badge/🚀%20Hire%20Me-Open%20to%20Work-0969DA?style=for-the-badge&logoColor=white" alt="Hire Me" />
   </a>
 </p>
