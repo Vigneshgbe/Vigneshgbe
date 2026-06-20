@@ -33,11 +33,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,firebase,java,git,github,androidstudio,vscode&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,firebase,java,git,github,androidstudio,vscode&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,firebase,java,git,github,androidstudio,vscode&theme=light" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,firebase,java,git,github,androidstudio,vscode" />
 </p>
 
 ---
