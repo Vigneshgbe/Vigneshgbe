@@ -1,75 +1,155 @@
-<h1 align="center">Hi 👋, I'm Vignesh G</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Full+Stack+Developer;Software+Engineer;Always+Learning&center=true&width=380&height=45">
-</p>
+<!-- Dynamic Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Vignesh%20G&fontSize=65&fontColor=58a6ff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descColor=8b949e&descAlignY=62&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://github.com/Vigneshgbe?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Vigneshgbe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vigneshgbe?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Vigneshgbe?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
+</div>
 
----
+<div align="center">
 
-### 🧐 About Me
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Platforms;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
 
-- 🔭 I'm currently working on **a full-stack platform**
-- 🌱 I'm currently learning **Mern Stack**
-- 👯 I'm looking to collaborate on **Android and Web Development projects**
-- 💬 Ask me about **Java, React**
-- 📫 How to reach me: **vigneshgbecse@gmail.com**
-- ⚡ Fun fact: When I'm not coding, I'm experimenting with DIY electronics!
+</div>
 
-### 🛠️ Languages and Tools
+<br/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,firebase,java,git,github,androidstudio" />
-  </a>
-</p>
+<div align="center">
 
-### 📊 GitHub Stats
+<!-- Follow & Stars badges -->
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/Vigneshgbe?color=1f6feb&labelColor=0d1117&style=for-the-badge&logo=person-add&label=Follow&logoColor=58a6ff)](https://github.com/Vigneshgbe?tab=followers)&nbsp;
+[![GitHub stars](https://custom-icon-badges.demolab.com/github/stars/Vigneshgbe?color=1f6feb&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=f0c35e)](https://github.com/Vigneshgbe?tab=repositories&sort=stargazers)&nbsp;
+[![Profile views](https://komarev.com/ghpvc/?username=Vigneshgbe&label=Profile+Views&color=1f6feb&style=for-the-badge)](https://github.com/Vigneshgbe)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vigneshgbe&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Vignesh_G"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshgbe&layout=compact&theme=dark&hide_border=true" alt="Vignesh_G" />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vigneshgbe&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vigneshgbe&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Vigneshgbe" />
-</p>
-
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="https://vigneshgbe.neocities.org/" target="blank"><img align="center" src="https://img.icons8.com/?size=1200&id=naDnVpQ3BNkR&format=png" alt="Vigneshgbe portfolio" height="40" width="50" /></a>
-  <a href="https://linkedin.com/in/vigneshgbe" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="vigneshgbe" height="60" width="70" /></a>
-  <a href="https://www.youtube.com/@Graduate-Hands" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="Graduate Hands" height="30" width="40" /></a>
-  <a href="https://vickystft.blogspot.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/08/Blogger-Emblem.png" alt="Vigneshgbe" height="50" width="60" /></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vigneshgbe&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshg" />
-</p>
+## 👨‍💻 About Me
 
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://vigneshgbe.neocities.org/">
-    <img align="center" src="https://www.seo-doctor.co.uk/wp-content/uploads/2015/06/hireMeButton-1.png" height="100" width="280" alt="vigneshg" />
-  </a>
-</p>
+```typescript
+const vignesh = {
+  role        : "Full Stack Developer & Software Engineer",
+  company     : "Padak Pvt Ltd — Founder & CEO",
+  education   : "B.E. CSE · Trichy Engineering College · 2025",
+  location    : "Sri Lanka 🇱🇰",
+  focus       : ["Web Platforms", "SaaS Products", "Digital Marketing Tech"],
+  currentWork : "Building Padak — Web Dev & Digital Marketing Agency",
+  learning    : "MERN Stack · System Design · Cloud Architecture",
+  collaborate : "Android & Web Development Projects",
+  askMeAbout  : ["Java", "React", "Node.js", "Full Stack Architecture"],
+  contact     : "vigneshgbecse@gmail.com",
+  funFact     : "When not coding → experimenting with DIY electronics ⚡",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Languages & Tools**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vigneshgbe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" alt="Vignesh G GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshgbe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12" alt="Vignesh G Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshgbe&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border_radius=12" alt="Vignesh G Streak Stats"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vigneshgbe&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" alt="Vignesh G Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vigneshgbe&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Vignesh G Trophies"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Shoutout Form](https://github-readme-stats.vercel.app/api/pin/?username=Vigneshgbe&repo=Shoutout_Form&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=12)](https://github.com/Vigneshgbe/Shoutout_Form)&nbsp;
+[![Employee Exit Form](https://github-readme-stats.vercel.app/api/pin/?username=Vigneshgbe&repo=Employee-Exit-Form&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=12)](https://github.com/Vigneshgbe/Employee-Exit-Form)
+
+[![CX Team Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Vigneshgbe&repo=CX-Team-Dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=12)](https://github.com/Vigneshgbe/CX-Team-Dashboard)&nbsp;
+[![Employee Leave Management](https://github-readme-stats.vercel.app/api/pin/?username=Vigneshgbe&repo=Employee-Leave-Management&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=12)](https://github.com/Vigneshgbe/Employee-Leave-Management)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://vigneshgbe.neocities.org/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshgbe)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Graduate-Hands)&nbsp;
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://vickystft.blogspot.com)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vigneshgbecse@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open to Opportunities
+
+[![Hire Me](https://img.shields.io/badge/%F0%9F%9A%80%20Hire%20Me-Let's%20Build%20Something%20Great-1f6feb?style=for-the-badge&logoColor=white)](https://vigneshgbe.neocities.org/)
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=footer"/>
+
+</div>
